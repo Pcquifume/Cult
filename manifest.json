@@ -1,19 +1,56 @@
 [
   {
-    "slug": "bowl-00004",
-    "title": "Ribbed Bowl #4",
-    "description": "Ribbed Bowl \u2014 procedural parametric design, generated automatically.\n\nDimensions: 94.1 x 94.1 x 43 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "slug": "vase-00006",
+    "title": "Scalloped Vase #6",
+    "description": "Scalloped Vase \u2014 procedural parametric design, generated automatically.\n\nDimensions: 68 x 68 x 105 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "tags": [
+      "vase",
+      "home",
+      "decor",
+      "flower",
+      "pot"
+    ],
+    "seed": 6
+  },
+  {
+    "slug": "twist-00007",
+    "title": "Twisted Tower #7",
+    "description": "Twisted Tower \u2014 procedural parametric design, generated automatically.\n\nDimensions: 59.9 x 59.9 x 100 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "tags": [
+      "tower",
+      "sculpture",
+      "art",
+      "decor"
+    ],
+    "seed": 7
+  },
+  {
+    "slug": "gear-00008",
+    "title": "Gear 21T #8",
+    "description": "Gear 21T \u2014 procedural parametric design, generated automatically.\n\nDimensions: 77.8 x 78 x 7.5 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "tags": [
+      "gear",
+      "mechanical",
+      "functional",
+      "spur"
+    ],
+    "seed": 8
+  },
+  {
+    "slug": "bowl-00009",
+    "title": "Ribbed Bowl #9",
+    "description": "Ribbed Bowl \u2014 procedural parametric design, generated automatically.\n\nDimensions: 97.4 x 97.4 x 43 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
     "tags": [
       "bowl",
       "kitchen",
       "home",
       "organizer"
     ],
-    "seed": 4
+    "seed": 9
   },
   {
-    "slug": "hexbox-00005",
-    "title": "Hex Pen Holder #5",
+    "slug": "hexbox-00010",
+    "title": "Hex Pen Holder #10",
     "description": "Hex Pen Holder \u2014 procedural parametric design, generated automatically.\n\nDimensions: 55.4 x 64 x 50 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
     "tags": [
       "desk",
@@ -22,6 +59,6 @@
       "holder",
       "storage"
     ],
-    "seed": 5
+    "seed": 10
   }
 ]
