@@ -1,39 +1,27 @@
 [
   {
-    "slug": "vase-00001",
-    "title": "Scalloped Vase #1",
-    "description": "Scalloped Vase \u2014 procedural parametric design, generated automatically.\n\nDimensions: 70.1 x 70.1 x 105 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "slug": "bowl-00004",
+    "title": "Ribbed Bowl #4",
+    "description": "Ribbed Bowl \u2014 procedural parametric design, generated automatically.\n\nDimensions: 94.1 x 94.1 x 43 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
     "tags": [
-      "vase",
+      "bowl",
+      "kitchen",
       "home",
-      "decor",
-      "flower",
-      "pot"
+      "organizer"
     ],
-    "seed": 1
+    "seed": 4
   },
   {
-    "slug": "twist-00002",
-    "title": "Twisted Tower #2",
-    "description": "Twisted Tower \u2014 procedural parametric design, generated automatically.\n\nDimensions: 58.3 x 58.3 x 100 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "slug": "hexbox-00005",
+    "title": "Hex Pen Holder #5",
+    "description": "Hex Pen Holder \u2014 procedural parametric design, generated automatically.\n\nDimensions: 55.4 x 64 x 50 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
     "tags": [
-      "tower",
-      "sculpture",
-      "art",
-      "decor"
+      "desk",
+      "organizer",
+      "pen",
+      "holder",
+      "storage"
     ],
-    "seed": 2
-  },
-  {
-    "slug": "gear-00003",
-    "title": "Gear 22T #3",
-    "description": "Gear 22T \u2014 procedural parametric design, generated automatically.\n\nDimensions: 80.8 x 81.6 x 7.5 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
-    "tags": [
-      "gear",
-      "mechanical",
-      "functional",
-      "spur"
-    ],
-    "seed": 3
+    "seed": 5
   }
 ]
