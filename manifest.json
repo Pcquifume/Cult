@@ -1,64 +1,15 @@
 [
   {
-    "slug": "vase-00006",
-    "title": "Scalloped Vase #6",
-    "description": "Scalloped Vase \u2014 procedural parametric design, generated automatically.\n\nDimensions: 68 x 68 x 105 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
+    "slug": "lithophane-test-photo",
+    "title": "Lithophane - test_photo",
+    "description": "Lithophane of 'test_photo' \u2014 240x180 px photo converted to 3D.\n\nDimensions: 156.8 x 117.6 x 3.2 mm, wall thickness 0.8-3.2 mm with reinforced border.\nHow to use: print in white/translucent filament at 100% infill, then light it from behind (LED panel or strong backlight) to reveal the image.\nRecommended: 0.1 mm layers. No supports.\nArchive contains model.stl.",
     "tags": [
-      "vase",
-      "home",
-      "decor",
-      "flower",
-      "pot"
+      "lithophane",
+      "photo",
+      "lightbox",
+      "home decor",
+      "personalized"
     ],
-    "seed": 6
-  },
-  {
-    "slug": "twist-00007",
-    "title": "Twisted Tower #7",
-    "description": "Twisted Tower \u2014 procedural parametric design, generated automatically.\n\nDimensions: 59.9 x 59.9 x 100 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
-    "tags": [
-      "tower",
-      "sculpture",
-      "art",
-      "decor"
-    ],
-    "seed": 7
-  },
-  {
-    "slug": "gear-00008",
-    "title": "Gear 21T #8",
-    "description": "Gear 21T \u2014 procedural parametric design, generated automatically.\n\nDimensions: 77.8 x 78 x 7.5 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
-    "tags": [
-      "gear",
-      "mechanical",
-      "functional",
-      "spur"
-    ],
-    "seed": 8
-  },
-  {
-    "slug": "bowl-00009",
-    "title": "Ribbed Bowl #9",
-    "description": "Ribbed Bowl \u2014 procedural parametric design, generated automatically.\n\nDimensions: 97.4 x 97.4 x 43 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
-    "tags": [
-      "bowl",
-      "kitchen",
-      "home",
-      "organizer"
-    ],
-    "seed": 9
-  },
-  {
-    "slug": "hexbox-00010",
-    "title": "Hex Pen Holder #10",
-    "description": "Hex Pen Holder \u2014 procedural parametric design, generated automatically.\n\nDimensions: 55.4 x 64 x 50 mm. Printable on FDM (PLA/PETG) without supports. Recommended: 0.2 mm layers, 15% infill.\nArchive contains model.stl.",
-    "tags": [
-      "desk",
-      "organizer",
-      "pen",
-      "holder",
-      "storage"
-    ],
-    "seed": 10
+    "seed": 0
   }
 ]
